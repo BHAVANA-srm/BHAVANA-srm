@@ -30,6 +30,14 @@ Status........... Always Learning 🚀
 Email............ rbhavana113@gmail.com
 LinkedIn......... linkedin.com/in/bhavana-r-8ab42b381
 GitHub........... github.com/BHAVANA-srm
+GitHub........... github.com/BHAVANA-srm
+```
+
+## 📊 GitHub Stats
+
+![Bhavana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BHAVANA-srm&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BHAVANA-srm&layout=compact&theme=tokyonight)
 
 > "Code. Learn. Build. Repeat."
 
